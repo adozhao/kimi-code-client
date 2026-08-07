@@ -32,6 +32,14 @@ Kimi Code Web 桌面客户端，支持一键安装/更新 Kimi Code CLI、每小
 3. 安装完成后服务会自动启动，即可在窗口内开始使用。
 4. 之后 CLI 有新版本时，点击「更新 CLI」即可一键升级。
 
+## ☕ 打赏支持
+
+如果这个项目帮到了你，欢迎请作者喝杯咖啡 ☕
+
+| 支付宝 | 微信支付 |
+| :---: | :---: |
+| <img src="docs/pay/alipay.jpg" width="260" alt="支付宝收款码"> | <img src="docs/pay/weixin.jpg" width="260" alt="微信收款码"> |
+
 ## License
 
 MIT
