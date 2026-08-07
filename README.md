@@ -2,6 +2,16 @@
 
 Kimi Code Web 桌面客户端，支持一键安装/更新 Kimi Code CLI、每小时自动检测新版本。
 
+## 界面截图
+
+**首次启动：欢迎页（语言 / 外观选择）**
+
+![欢迎页](docs/screenshot/screenshot-01.png)
+
+**主界面：AI 编程工作台**
+
+![主界面](docs/screenshot/screenshot-02.png)
+
 ## 下载
 
 前往 [Releases](https://github.com/adozhao/kimi-code-client/releases/latest) 页面下载最新版本：
