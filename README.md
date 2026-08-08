@@ -1,6 +1,6 @@
 # Kimi Code
 
-Kimi Code Web 桌面客户端，支持一键安装/更新 Kimi Code CLI、每小时自动检测新版本。
+Kimi Code Web 桌面客户端，支持一键安装/更新 Kimi Code CLI、自动检测新版本。
 
 ## 界面截图
 
@@ -26,7 +26,7 @@ Kimi Code Web 桌面客户端，支持一键安装/更新 Kimi Code CLI、每小
 - 自动启动本地 `kimi web` 服务，窗口内直接打开使用
 - 默认端口被占用时自动切换到随机端口
 - 一键安装 / 更新 Kimi Code CLI（`npm install -g @moonshot-ai/kimi-code`）
-- 每小时自动检测 npm 上的最新版本，有更新时提示
+- 自动检测 npm 上的最新版本，有更新时提示
 - 状态面板：CLI 当前版本、最新版本、服务运行状态、服务地址
 - 支持重启服务、在浏览器中打开服务页面
 
