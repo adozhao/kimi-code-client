@@ -18,8 +18,8 @@ Kimi Code Web 桌面客户端，支持一键安装/更新 Kimi Code CLI、自动
 
 | 文件 | 说明 |
 | --- | --- |
-| `Kimi.Code.Setup.x.y.z.exe` | 安装版（推荐）：可自定义安装目录，自动创建桌面/开始菜单快捷方式 |
-| `Kimi.Code-x.y.z-portable.exe` | 便携版：免安装，单文件直接运行 |
+| `Kimi-Code-Setup-x.y.z.exe` | Windows 安装版（推荐）：可自定义安装目录，自动创建桌面/开始菜单快捷方式 |
+| `Kimi-Code-x.y.z-portable.exe` | Windows 便携版：免安装，单文件直接运行 |
 
 ## 功能
 
@@ -27,6 +27,7 @@ Kimi Code Web 桌面客户端，支持一键安装/更新 Kimi Code CLI、自动
 - 默认端口被占用时自动切换到随机端口
 - 一键安装 / 更新 Kimi Code CLI（`npm install -g @moonshot-ai/kimi-code`）
 - 自动检测 npm 上的最新版本，有更新时提示
+- 客户端自身在线更新（安装版）：发现新版本后一键下载并重启升级
 - 状态面板：CLI 当前版本、最新版本、服务运行状态
 - 支持重启服务
 
